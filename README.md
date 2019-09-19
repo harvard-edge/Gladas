@@ -1,7 +1,7 @@
 # gladas
 Gesture Learning for Advanced Driver Assistance Systems
 
-![Simulation-Based Learning](pictures/GLADAS)
+![Simulation-Based Learning](pictures/GLADAS.png)
 
 ## Requirements
 
