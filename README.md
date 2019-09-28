@@ -23,7 +23,8 @@ pip install msgpack-rpc-python
 
 ## The Code
 BenchmarkMetrics: Measures algorithm performance.
-    *Includes support for Precision-Recall, PR Graphs, F1, Accuracy, TN, TP, FP, FN Metrics
+    
+    *Includes support for Precision-Recall, PR Graphs, F1, Accuracy, TN, TP, FP, FN Metrics*
 
 CarTest: Gives feedback and data on the hand gesture recognition algorithm's performance. Includes the Video Streamer. Resulting data saved to /data/ScenarioX.csv for each scenario.
 
