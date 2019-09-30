@@ -43,4 +43,4 @@ Jonathan Cruz (Harvard University)
 Vijay Janapa Reddi (Harvard University)
 
 ## Contact
-Ethan Shaotran (ethan@shaotran.com)
+Ethan Shaotran (shaotran@mit.edu)
