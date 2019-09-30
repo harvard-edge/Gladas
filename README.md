@@ -37,8 +37,10 @@ Full instructions and explanation of the code are coming soon.
 
 ## Contributors
 Ethan Shaotran
-Jonathan Cruz
-Vijay Janapa Reddi
+
+Jonathan Cruz (Harvard University)
+
+Vijay Janapa Reddi (Harvard University)
 
 ## Contact
 Ethan Shaotran (ethan@shaotran.com)
