@@ -34,3 +34,8 @@ Classifier: The Gesture Classifier model used as an example for GLADAS testing. 
 
 ## Paper
 Full instructions and explanation of the code are coming soon.
+
+## Contributors
+Ethan Shaotran
+Jonathan Cruz
+Vijay Janapa Reddi
