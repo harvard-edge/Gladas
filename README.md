@@ -39,3 +39,6 @@ Full instructions and explanation of the code are coming soon.
 Ethan Shaotran
 Jonathan Cruz
 Vijay Janapa Reddi
+
+## Contact
+Ethan Shaotran (ethan@shaotran.com)
